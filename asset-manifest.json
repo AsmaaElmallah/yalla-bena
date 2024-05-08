@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/yalla-bena/static/css/main.6b0eea04.css",
+    "main.js": "/yalla-bena/static/js/main.b54824ae.js",
+    "static/media/about.jpg": "/yalla-bena/static/media/about.928b856827dd872b73da.jpg",
+    "static/media/banner.png": "/yalla-bena/static/media/banner.9717726e62b00829b94a.png",
+    "static/media/services.jpg": "/yalla-bena/static/media/services.6388e553710097d89f69.jpg",
+    "static/media/pricing.jpg": "/yalla-bena/static/media/pricing.0df031ced59fea140eca.jpg",
+    "index.html": "/yalla-bena/index.html",
+    "main.6b0eea04.css.map": "/yalla-bena/static/css/main.6b0eea04.css.map",
+    "main.b54824ae.js.map": "/yalla-bena/static/js/main.b54824ae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b0eea04.css",
+    "static/js/main.b54824ae.js"
+  ]
+}
